@@ -1,6 +1,6 @@
 # ECDNet
 
-Edge-Content Guided Diffusion Network for Breast Lesions Segmentation in Ultrasound Images
+a diffusion-based network for the breast lesion segmentation task
 
 ![](./Overall.png)
 
