@@ -2,7 +2,7 @@
 
 a diffusion-based network for the breast lesion segmentation task
 
-![](./Overall.png)
+![](./Overall.PNG)
 
 ## 🔗 Dataset
 
